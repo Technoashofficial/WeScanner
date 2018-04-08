@@ -10,8 +10,8 @@
 2. Kali Linux
 3. Ubuntu
 4. Termux(Android)
-5. Fedora 
-Any  More.... OS
+5. Fedora.
+Any  More.... OS.
  
 #How  To Install.
  
