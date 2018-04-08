@@ -4,7 +4,8 @@
 3. This Tool Only Educational Purpose.
 4. It's Your Own Risk.
 
-# Usage In
+# Usage In.
+ 
 1. MacOs
 2. Kali Linux
 3. Ubuntu
@@ -12,7 +13,8 @@
 5. Fedora 
 Any  More.... OS
  
-#How  To Install
+#How  To Install.
+ 
 1. apt-get update -y
 2. git clone https://github.com/SkyKnight-Team/WeScanner.git
 3. ls && cd WeScanner
