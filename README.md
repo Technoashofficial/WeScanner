@@ -4,7 +4,7 @@
 3. This Tool Only Educational Purpose.
 4. It's Your Own Risk.
 
-# Usage In.
+# Usage In.
  
 1. MacOs
 2. Kali Linux
@@ -20,8 +20,8 @@ Any  More.... OS.
 3. ls && cd WeScanner
 4. sh install.sh
 5. python we.py
-Get  Started This Tool.
+# Get  Started This Tool.
  
-* * Any Error Please Contact Me epic.skyknight@gmail.com * *
+# * * Any Error Please Contact Me epic.skyknight@gmail.com * *
  
  
