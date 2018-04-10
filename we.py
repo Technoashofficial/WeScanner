@@ -133,5 +133,6 @@ finda()
 page()
 mobile()
 print(F.MAGENTA+"Thanks For Using Me :) \n\t\t\tGood Bye Dear.")
+print(F.RED+" ANY ERROR PLEASE CONTACT ME :-", F.GREEN+"epic.skyknight@gmail.com")
 sys.exit()
 
