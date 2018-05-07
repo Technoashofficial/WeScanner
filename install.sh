@@ -1,4 +1,2 @@
 pip install colorama
-apt install nmap -y 
-
- 
+apt install nmap
